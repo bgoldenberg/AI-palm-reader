@@ -2,7 +2,7 @@
 
 > Upload photos of your palms and receive a beautifully designed, AI-guided symbolic palm reading — delivered as a downloadable visual report.
 
-**Live app → [hand-storyteller.vercel.app](https://hand-storyteller.vercel.app)**
+**Demo → [The Palm Reader](https://www.loom.com/share/91bbff78405d45da93405f898aa9f9e8)**
 
 ---
 
